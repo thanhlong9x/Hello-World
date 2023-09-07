@@ -1,3 +1,2 @@
 # Hello-World
-study git
-edit readme
+test HelloWorld plugin
